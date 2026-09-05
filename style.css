@@ -5,11 +5,19 @@ body {
   background-color: #a0d411
 }
 .man{
+    margin: 0;                
+    height: 100vh;            
+    display: flex;            
+    justify-content: center;
     text-align: center;
     align-items: center;
     color: aqua;
 }
 .h1{
+    margin: 0;                
+    height: 100vh;            
+    display: flex;            
+    justify-content: center;
     align-items: center;
     text-align: center;
     text-decoration: dashed;
