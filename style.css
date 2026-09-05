@@ -5,8 +5,13 @@ body {
   background-color: #a0d411
 }
 .man{
+    text-align: center;
+    align-items: center;
     color: aqua;
 }
 .h1{
+    align-items: center;
     text-align: center;
+    text-decoration: dashed;
+    text-decoration-color: #115c07;
 }
